@@ -1,4 +1,10 @@
-Android theme inspired by Roman Nurik's Robot Theme for Chrome.
-https://chrome.google.com/extensions/detail/oeljdmeofcikjblcoehpmdnooimalbmj
-http://roman.nurik.net/
-Thanks!
+GreenRomProject presents Greenie theme
+
+Come Visit Us @ http://greenromproject.com
+
+We are Open Source and welcome community involvment
+http://github.com/greenromproject
+
+You can build GreenRomProject
+repo init -u http://github.com/greenromproject/GRPmanifest.git
+. build/envsetup.sh && brunch
