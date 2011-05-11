@@ -16,7 +16,7 @@
  -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">GreenRomProject's Greenie Theme</string>
+    <string name="app_name">GreenRomProject\'s Greenie Theme</string>
     <string name="theme_name">Greenie</string>
     <string name="style_appearance_name">Greenie</string>
     <string name="author">GreenRomProject</string>
